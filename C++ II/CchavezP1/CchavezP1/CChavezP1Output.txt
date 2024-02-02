@@ -1,0 +1,22 @@
+
+
+
+The results of the program are as follows:
+Sentences Analyzed: 7
+Sentences Modifications: 11
+
+Sentences after modifications: 
+The beautiful and rich ball went in the gutter.
+
+Beautiful and rich and sunny and warm are the Packers' colors.
+
+Expensive and elegant, massive and stupid and gigantic yet gentle are the colors in our flag.
+
+Carly is a fast and agile dog.
+
+The moon is bold and charming.
+
+Sphinx of glittery with diamonds quartz judge my vow.
+
+The quick fast and agile fox jumps over the lazy expensive and elegant dog.
+

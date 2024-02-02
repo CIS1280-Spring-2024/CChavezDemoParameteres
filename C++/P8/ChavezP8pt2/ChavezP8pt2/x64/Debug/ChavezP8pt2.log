@@ -1,0 +1,5 @@
+﻿  Fucntions.cpp
+C:\Users\chave\source\repos\ClassRepo\C++\P8\ChavezP8pt2\ChavezP8pt2\Fucntions.cpp(216,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chave\source\repos\ClassRepo\C++\P8\ChavezP8pt2\ChavezP8pt2\Fucntions.cpp(217,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chave\source\repos\ClassRepo\C++\P8\ChavezP8pt2\ChavezP8pt2\Fucntions.cpp(218,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ChavezP8pt2.vcxproj -> C:\Users\chave\source\repos\ClassRepo\C++\P8\ChavezP8pt2\x64\Debug\ChavezP8pt2.exe

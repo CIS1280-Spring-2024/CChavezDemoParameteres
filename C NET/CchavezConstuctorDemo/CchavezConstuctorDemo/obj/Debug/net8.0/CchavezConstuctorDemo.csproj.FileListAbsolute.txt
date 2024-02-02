@@ -1,0 +1,15 @@
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\bin\Debug\net8.0\CchavezConstuctorDemo.exe
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\bin\Debug\net8.0\CchavezConstuctorDemo.deps.json
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\bin\Debug\net8.0\CchavezConstuctorDemo.runtimeconfig.json
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\bin\Debug\net8.0\CchavezConstuctorDemo.dll
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\bin\Debug\net8.0\CchavezConstuctorDemo.pdb
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.AssemblyInfoInputs.cache
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.AssemblyInfo.cs
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.csproj.CoreCompileInputs.cache
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.sourcelink.json
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.dll
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\refint\CchavezConstuctorDemo.dll
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.pdb
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\CchavezConstuctorDemo.genruntimeconfig.cache
+C:\Users\chave\source\repos\ClassRepo\C++ II\CchavezConstuctorDemo\CchavezConstuctorDemo\obj\Debug\net8.0\ref\CchavezConstuctorDemo.dll

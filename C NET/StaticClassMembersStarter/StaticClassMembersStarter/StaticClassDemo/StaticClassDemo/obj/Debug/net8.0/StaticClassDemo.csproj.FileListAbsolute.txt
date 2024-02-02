@@ -1,0 +1,14 @@
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\bin\Debug\net8.0\StaticClassDemo.exe
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\bin\Debug\net8.0\StaticClassDemo.deps.json
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\bin\Debug\net8.0\StaticClassDemo.runtimeconfig.json
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\bin\Debug\net8.0\StaticClassDemo.dll
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\bin\Debug\net8.0\StaticClassDemo.pdb
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.AssemblyInfoInputs.cache
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.AssemblyInfo.cs
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.dll
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\refint\StaticClassDemo.dll
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.pdb
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\StaticClassDemo.genruntimeconfig.cache
+C:\Users\chave\source\repos\StaticClassMembersStarter\StaticClassMembersStarter\StaticClassDemo\StaticClassDemo\obj\Debug\net8.0\ref\StaticClassDemo.dll

@@ -1,0 +1,12 @@
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\bin\Debug\StudentClassDemo.exe.config
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\bin\Debug\StudentClassDemo.exe
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\bin\Debug\StudentClassDemo.pdb
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.exe
+C:\Users\rob82_000\OneDrive - Central New Mexico Community College\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StudentClassDemo\StudentClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.pdb
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StaticClassMembersDemo\StudentClassDemo\StudentClassDemo\bin\Debug\StudentClassDemo.exe.config
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StaticClassMembersDemo\StudentClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.exe
+C:\Users\rgarner7\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day6StaticMethodsAndClasses\StaticClassMembersDemo\StudentClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.pdb
+C:\VSO\StaticClassDemo\StudentClassDemo\bin\Debug\StudentClassDemo.exe.config
+C:\VSO\StaticClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.exe
+C:\VSO\StaticClassDemo\StudentClassDemo\obj\Debug\StudentClassDemo.pdb

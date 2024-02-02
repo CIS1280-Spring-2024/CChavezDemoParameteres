@@ -1,0 +1,4 @@
+﻿  Movies.cpp
+C:\Users\chave\source\repos\ClassRepo\P7\ChavezComp7Act1\ChavezComp7Act1\Movies.cpp(23,2): error C2660: 'AskForFavMovie': function does not take 3 arguments
+C:\Users\chave\source\repos\ClassRepo\P7\ChavezComp7Act1\ChavezComp7Act1\Movies.h(29,6): message : see declaration of 'AskForFavMovie'
+C:\Users\chave\source\repos\ClassRepo\P7\ChavezComp7Act1\ChavezComp7Act1\Movies.cpp(23,2): message : while trying to match the argument list '(std::string, std::string, std::string)'

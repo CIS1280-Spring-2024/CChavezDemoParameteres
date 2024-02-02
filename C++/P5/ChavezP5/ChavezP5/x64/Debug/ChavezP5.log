@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+C:\Users\chave\source\repos\ClassRepo\P5\ChavezP5\ChavezP5\Functions.cpp(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\chave\source\repos\ClassRepo\P5\ChavezP5\ChavezP5\Functions.cpp(67,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ChavezP5.vcxproj -> C:\Users\chave\source\repos\ClassRepo\P5\ChavezP5\x64\Debug\ChavezP5.exe

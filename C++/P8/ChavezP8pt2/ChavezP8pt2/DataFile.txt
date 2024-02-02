@@ -1,0 +1,6 @@
+Adepta_Sororitas	Adeptus_Custodes	Adeptus_Mechanicus	Aeldari	Astra_Militarum	Black_Templars	Blood_Angels	Chaos_Daemons	Chaos_Knights	Chaos_Space_Marines	Dark_Angels	Death_Guard	Deathwatch	Drukhari	Genestealer_Cults	Grey_Knights	Imperial_Knights	Leagues_Of_Votann	Necrons	Orks	Space_Marines	Space_Wolves	T'au	Thousand_Sons	Tyranids	World_Eaters
+193	678	96	650	414	187	216	289	302	677	308	445	77	291	231	316	356	210	870	500	564	195	602	498	756	441
+79	246	61	214	236	66	110	138	160	310	148	224	26	106	97	171	125	108	420	208	266	80	288	191	338	187
+110	402	34	410	164	114	103	147	130	342	148	210	51	175	120	126	217	91	439	275	275	104	284	281	390	243
+4	30	1	26	14	7	3	4	12	25	12	11	0	10	14	19	14	11	11	17	23	11	30	26	28	11
+41.97%	38.50%	64.06%	34.92%	58.70%	37.17%	51.62%	48.44%	54.97%	47.64%	50.00%	51.57%	33.77%	38.14%	45.02%	57.12%	37.08%	54.05%	48.91%	43.30%	49.20%	43.85%	50.33%	40.96%	46.56%	43.65%

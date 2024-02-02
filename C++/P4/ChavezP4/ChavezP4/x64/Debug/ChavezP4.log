@@ -1,0 +1,3 @@
+﻿  Drive.cpp
+C:\Users\chave\source\repos\ClassRepo\P4\ChavezP4\ChavezP4\Drive.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ChavezP4.vcxproj -> C:\Users\chave\source\repos\ClassRepo\P4\ChavezP4\x64\Debug\ChavezP4.exe

@@ -1,0 +1,6 @@
+C:\VSO\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+C:\VSO\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+C:\VSO\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+C:\VSO\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csprojResolveAssemblyReference.cache
+C:\VSO\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+C:\VSO\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
